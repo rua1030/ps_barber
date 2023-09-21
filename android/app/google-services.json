@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3995044910",
+    "project_id": "flutter-firebase-bb872",
+    "storage_bucket": "flutter-firebase-bb872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3995044910:android:c3d2fa6e7873abd3f123bf",
+        "android_client_info": {
+          "package_name": "com.example.ps_barber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-X66igMMvzEHcab9--FfvyEfNIDZ1v1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
